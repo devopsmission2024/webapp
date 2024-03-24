@@ -1,10 +1,5 @@
 # Title
-This project is intended to showcase portfolio.
-
-# Technologies used
-Frontend:  HTML, CSS, JavaScript, Bootstrap
-
-Backend: Django
+This project is intended to perform CRUD operations.
 
 # Execution Flow
 * Clone the project:
