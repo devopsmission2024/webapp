@@ -1,5 +1,5 @@
 asgiref==3.4.1
-Django
+#Django
 # Pillow==9.0.1
 sqlparse==0.4.2
 Jinja2
