@@ -1,6 +1,6 @@
-# asgiref==3.4.1
-# Django
+asgiref==3.4.1
+Django
 # Pillow==9.0.1
-# sqlparse==0.4.2
-# Jinja2
-# gunicorn
+sqlparse==0.4.2
+Jinja2
+gunicorn
